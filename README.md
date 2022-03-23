@@ -6,7 +6,7 @@
   >
 </p>
 <p align="center">
-  <img align="center" alt="GitHub all releases" src="https://img.shields.io/github/downloads/PhYz1Kal/DBconv/total"> <img align="center" alt="GitHub" src="https://img.shields.io/github/license/PhYz1Kal/DBconv"> <img align="center" alt="GitHub language count" src="https://img.shields.io/github/languages/count/PhYz1Kal/DBconv"> <img align="center" alt="GitHub top language" src="https://img.shields.io/github/languages/top/PhYz1Kal/DBconv">
+  <img align="center" alt="GitHub all releases" src="https://img.shields.io/github/downloads/PhYz1Kal/DBconv/total"> <img align="center" alt="GitHub" src="https://img.shields.io/github/license/PhYz1Kal/DBconv"> <img align="center" alt="GitHub language count" src="https://img.shields.io/github/languages/count/PhYz1Kal/DBconv">
 </p>
 <div align="center">
   A simple and easy to use decimal to binary and hexadecimal converter
