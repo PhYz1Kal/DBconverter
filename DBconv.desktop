@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=DBconv
+Exec=python3 /home/pi/dbconv_data/bin_conv.py
+Icon=/home/pi/dbconv_data/icon.png
+Categories=Utility
+Version=1.0
+Type=Application
+Terminal=false
+StartupNotify=false
