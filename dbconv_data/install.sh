@@ -1,3 +1,3 @@
-chmod +x /home/pi/Desktop/.DBconv/start.sh
-chmod +x /home/pi/Desktop/.DBconv/uninstall.sh
+chmod +x /home/pi/Desktop/dbconv_data/start.sh
+chmod +x /home/pi/Desktop/dbconv_data/uninstall.sh
 chmod +x /home/pi/Desktop/DBconv.desktop
